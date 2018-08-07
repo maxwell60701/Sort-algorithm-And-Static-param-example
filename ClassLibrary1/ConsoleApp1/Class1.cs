@@ -22,11 +22,8 @@ namespace ConsoleApp1
                 {
                     // Exchange(ListPrev[j], ListPrev[j + 1]);
                     if (list[j] > list[j + 1])
-                    {
-                        int mid = 0;
-                        mid = list[j + 1];
-                        list[j + 1] = list[j];
-                        list[j] = mid;
+                    {                    
+                        Swap(j, j + 1, list);
                     }
                 }
 
