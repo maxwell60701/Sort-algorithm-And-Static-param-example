@@ -58,20 +58,28 @@ namespace ConsoleApp1
             {
                 while (low < high && list[high] > privot)
                     high--;
-                int mid = 0;
-                mid = list[high];
-                list[high] = list[low];
-                list[low] = mid;
+                Swap(low, high, list);
 
 
                 while (low < high && list[low] <= privot)
                     low++;
-                int mid2 = 0;
-                mid2 = list[high];
-                list[high] = list[low];
-                list[low] = mid2;
+                Swap(low, high, list);
             }
             return low;
+        }
+        /// <summary>
+        /// 交换LOW与HIGH指针的值
+        /// </summary>
+        /// <param name="low"></param>
+        /// <param name="high"></param>
+        /// <param name="list"></param>
+        private void Swap(int low,int high,int[] list)
+        {
+            int mid = 0;
+            mid = list[high];
+            list[high] = list[low];
+            list[low] = mid;
+
         }
 
     }
