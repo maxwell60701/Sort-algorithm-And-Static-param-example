@@ -1,0 +1,7 @@
+F:\静态变量例子\ClassLibrary1\HelpClass\bin\Debug\HelpClass.exe.config
+F:\静态变量例子\ClassLibrary1\HelpClass\bin\Debug\HelpClass.exe
+F:\静态变量例子\ClassLibrary1\HelpClass\bin\Debug\HelpClass.pdb
+F:\静态变量例子\ClassLibrary1\HelpClass\obj\Debug\HelpClass.csprojResolveAssemblyReference.cache
+F:\静态变量例子\ClassLibrary1\HelpClass\obj\Debug\HelpClass.csproj.CoreCompileInputs.cache
+F:\静态变量例子\ClassLibrary1\HelpClass\obj\Debug\HelpClass.exe
+F:\静态变量例子\ClassLibrary1\HelpClass\obj\Debug\HelpClass.pdb

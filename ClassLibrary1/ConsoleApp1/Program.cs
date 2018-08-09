@@ -22,8 +22,8 @@ namespace ConsoleApp1
             //调用静态类的静态方法，其中的静态构造也是只被调用一次
             StaticTest2.Say();
             StaticTest2.Say();
-           
 
+          
            
             Console.ReadKey();
 
