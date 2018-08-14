@@ -1,0 +1,7 @@
+F:\静态变量例子\ClassLibrary1\Search\obj\Debug\Search.csprojResolveAssemblyReference.cache
+F:\静态变量例子\ClassLibrary1\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+F:\静态变量例子\ClassLibrary1\Search\bin\Debug\Search.exe.config
+F:\静态变量例子\ClassLibrary1\Search\bin\Debug\Search.exe
+F:\静态变量例子\ClassLibrary1\Search\bin\Debug\Search.pdb
+F:\静态变量例子\ClassLibrary1\Search\obj\Debug\Search.exe
+F:\静态变量例子\ClassLibrary1\Search\obj\Debug\Search.pdb
