@@ -16,17 +16,29 @@ namespace Sort
         /// <returns></returns>
         public int[] Bubble(int[] list)
         {
-            for (int i = 0; i < list.Length - 1; i++)
+            //for (int i = 0; i < list.Length; i++)
+            //{
+            //    for (int j = i; j >= 0; j--)
+            //    {
+            //        // Exchange(ListPrev[j], ListPrev[j + 1]);
+            //        if (list[j] > list[j + 1])
+            //        {                    
+            //            Swap(j, j + 1, list);
+            //        }
+            //    }
+
+            //}
+            //return list;
+            //通俗易懂版本
+            for(int i=0;i<list.Length;i++)
             {
-                for (int j = i; j >= 0; j--)
+                for(int j=i+1;j<list.Length;j++)
                 {
-                    // Exchange(ListPrev[j], ListPrev[j + 1]);
-                    if (list[j] > list[j + 1])
-                    {                    
-                        Swap(j, j + 1, list);
+                    if(list[i]>list[j])
+                    {
+                        Swap(i, j, list);
                     }
                 }
-
             }
             return list;
         }

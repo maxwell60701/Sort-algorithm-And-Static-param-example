@@ -11,7 +11,7 @@ namespace Sort
         static void Main(string[] args)
         {
             SortMethod sort1 = new SortMethod();
-            var list = new int[] { 10, 8, 5, 9, 7, 9, 7, 1, 3, 23, 15, 65, 23, 21, 10, 6 };
+            var list = new int[] { 10, 8, 5, 9, 7, 9, 7, 1, 3, 23, 15, 65, 23, 21, 10, 6,23,123,31};
             var list2 = list;
 
             Console.WriteLine("冒泡排序结果为：" + string.Join(",", sort1.Bubble(list)));

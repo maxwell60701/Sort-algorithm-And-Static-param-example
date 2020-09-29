@@ -5,3 +5,10 @@ F:\静态变量例子\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.Cor
 F:\静态变量例子\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 F:\静态变量例子\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 F:\静态变量例子\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\排序算法\ClassLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\排序算法\ClassLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\排序算法\ClassLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\排序算法\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\排序算法\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\排序算法\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\排序算法\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
